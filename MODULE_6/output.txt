@@ -1,0 +1,25 @@
+visited node:1
+visited node:2
+visited node:4
+visited node:5
+visited node:6
+visited node:8
+visited node:7
+visited node:3
+visited node:9
+visited node:10
+visited node:11
+visited node:12
+visited array:
+node 1 status: 1
+node 2 status: 1
+node 3 status: 1
+node 4 status: 1
+node 5 status: 1
+node 6 status: 1
+node 7 status: 1
+node 8 status: 1
+node 9 status: 1
+node 10 status: 1
+node 11 status: 1
+node 12 status: 1
