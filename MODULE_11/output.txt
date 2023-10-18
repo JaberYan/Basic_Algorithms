@@ -1,0 +1,7 @@
+Befor appling floyd warshell algorithm:
+0 X 
+X 0 
+
+After appling floyd warshell algorithm:
+0 X 
+X 0 

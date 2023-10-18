@@ -1,0 +1,11 @@
+Distance: 2
+**************
+Parent Of 1 : 3
+Parent Of 2 : 1
+Parent Of 3 : 6
+Parent Of 4 : 1
+Parent Of 5 : 3
+Parent Of 6 : 0
+Parent Of 7 : 5
+**************
+Path : 6->3->1->
